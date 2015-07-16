@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Root xmlns="5_1.xsd"> <br /> 
+ 
+<Thing><table border="1px" width="480" height="180" id="tbl">
+<tbody>
+<tr>
+<td id="id_1"width="150">Название</td>
+<td id="id_2" width="200">Свойства</td>
+</tr>
+<tr>
+<td id="id_3">Acer Aspire V</td>
+<td id="id_4">
+<table border="1" width="350" height="70" id="tb1">
+<tbody>
+<tr>
+<td id="id_5">Оперативная память</td>
+<td id="id_6">Количество процессоров</td>
+</tr>
+<tr>
+<td id="id_7">8Gb</td>
+<td id="id_8">8</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td id="id_3">HP Pavilion g</td>
+<td id="id_4">
+<table border="1" width="350" height="70" id="tb1">
+<tbody>
+<tr>
+<td id="id_5">Оперативная память</td>
+<td id="id_6">Количество процессоров</td>
+</tr>
+<tr>
+<td id="id_7">8Gb</td>
+<td id="id_8">5</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td id="id_3">Asus X200MA</td>
+<td id="id_4">
+<table border="1" width="350" height="70" id="tb1">
+<tbody>
+<tr>
+<td id="id_5">Оперативная память</td>
+<td id="id_6">Количество процессоров</td>
+</tr>
+<tr>
+<td id="id_7">6Gb</td>
+<td id="id_8">4</td>
+</tr>
+</tbody>
+</table>
+</td> 
+</Thing>
+</Root>
